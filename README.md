@@ -1,6 +1,7 @@
 Hi, I'm Larry
 
 An AI Fellow @Break Through Tech AI and Cornell Tech 
+and
 CS Student @ Texas Tech 
 
 ---
