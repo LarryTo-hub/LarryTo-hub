@@ -21,11 +21,10 @@ I'm currently building a strong foundation in supervised learning, model evaluat
 
 ---
 
-## 🛠️ Projects Coming Soon
+## 🛠️ Projects
 
-📌 **fall-ai-studio-project** – A machine learning application focused on solving a real-world business problem using supervised learning  
-
-I’ll be adding full READMEs, visualizations, and documentation to each of my projects as they’re developed.
+📌 **fall-ai-studio-project** – YouTube Viral Video Longevity**  
+A supervised learning project that uses the Kaggle YouTube Trending Videos dataset to predict how long a video will stay trending by engineering engagement, timing, and discoverability features from real YouTube metadata.
 
 ---
 
