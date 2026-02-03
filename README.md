@@ -26,17 +26,4 @@ I'm currently building a strong foundation in supervised learning, model evaluat
 📌 **fall-ai-studio-project** – YouTube Viral Video Longevity** https://github.com/ajs787/Youtube-ML-Project
 A supervised learning project that uses the Kaggle YouTube Trending Videos dataset to predict how long a video will stay trending by engineering engagement, timing, and discoverability features from real YouTube metadata.
 
----
-
-## 📈 Goals for the upcoming Fall-Spring 2025/2026
-
--  Publish at least 3 ML-focused project repos  
--  Maintain weekly GitHub activity (3–5 contributions per week)  
--  Include clear READMEs, visualizations, and sample datasets  
--  Pin Fall AI Studio capstone project to top of profile  
--  Engage with open-source communities and contribute where possible  
-
----
-
-> I'm not just learning machine learning — I'm applying it. Follow along as I grow.
 
