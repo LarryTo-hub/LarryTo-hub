@@ -6,24 +6,25 @@ CS Student @ Texas Tech
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a Computer Science major at Texas Tech University and an AI Fellow in the Break Through Tech AI program hosted by Cornell Tech. Through this year-long fellowship, I'm developing real-world machine learning skills using Python, scikit-learn, and modern AI development tools.
 
-I'm currently building a strong foundation in supervised learning, model evaluation, and responsible AI practices. Over the coming months, I’ll be creating clean, well-documented machine learning projects that reflect my growth as an early-career AI engineer.
+I'm currently building a strong foundation in supervised learning, model evaluation, and responsible AI practices. Over the coming months, I’ll be creating clean, well-documented machine learning projects that reflect my growth as an early-career AI engineer and data scientist.
 
 ---
 
-## 📬 Contact
+## Contact
 
 - 📧 Email: [larrytoto567@gmail.com](mailto:larrytoto567@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/larry-to-0351a5271](https://linkedin.com/in/larry-to-0351a5271)
 
 ---
 
-## 🛠️ Projects
+## Projects
 
-📌 **fall-ai-studio-project** – YouTube Viral Video Longevity** https://github.com/ajs787/Youtube-ML-Project
+**fall-ai-studio-project** – YouTube Viral Video Longevity** https://github.com/ajs787/Youtube-ML-Project
 A supervised learning project that uses the Kaggle YouTube Trending Videos dataset to predict how long a video will stay trending by engineering engagement, timing, and discoverability features from real YouTube metadata.
 
-
+**spring-agentic-ai-project** - Recall Alert AI** https://github.com/LarryTo-hub/RecallAlert-AI
+An agentic AI project that aims to protect individuals from food recalls.
