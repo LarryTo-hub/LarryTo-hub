@@ -1,16 +1,16 @@
 Hi, I'm Larry
 
-An AI Fellow @Break Through Tech AI and Cornell Tech 
+AI Fellow Alumni @Break Through Tech AI and Cornell Tech
 and
-CS Student @ Texas Tech 
+MS Data Science Student @ UT Austin
 
 ---
 
 ## About Me
 
-I'm a Computer Science major at Texas Tech University and an AI Fellow in the Break Through Tech AI program hosted by Cornell Tech. Through this year-long fellowship, I'm developing real-world machine learning skills using Python, scikit-learn, and modern AI development tools.
+I completed my B.S. in Computer Science at Texas Tech University and the Break Through Tech AI fellowship hosted by Cornell Tech, where I gained hands-on experience in machine learning, Python, and modern AI development tools. I am now pursuing a Master's in Data Science at UT Austin.
 
-I'm currently building a strong foundation in supervised learning, model evaluation, and responsible AI practices. Over the coming months, I’ll be creating clean, well-documented machine learning projects that reflect my growth as an early-career AI engineer and data scientist.
+I'm focused on deepening my expertise in supervised learning, model evaluation, and responsible AI practices. I continue to build well-documented machine learning projects that reflect my growth as an aspiring data scientist and AI engineer.
 
 ---
 
