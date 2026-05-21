@@ -12,7 +12,7 @@ I completed my B.S. in Computer Science at Texas Tech University and the Break T
 
 I'm focused on deepening my expertise in supervised learning, model evaluation, and responsible AI practices. I continue to build well-documented machine learning projects that reflect my growth as an aspiring data scientist and AI engineer.
 
-- Portfolio : [https://larryto-portfolio.vercel.app/)
+- Portfolio : https://larryto-portfolio.vercel.app/
 
 ---
 
